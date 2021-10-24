@@ -7,3 +7,4 @@ I am learning How to use github
 =======
 I am changed from git hub
 >>>>>>> 2e1f151414da8ec758fee5f029cc52dc8a950647
+I am trying this from github
